@@ -7,7 +7,9 @@ function App() {
 	return (
 		<div className='app'>
 			<div className='appName'>
-				<h1>Counter app</h1>
+				
+				<p>This app will help you to explore basics of css, html and js.</p>
+				<p>This app can be very useful especially for kids.</p>
 			</div>
 			<div className='count'>
 				<h1>{count}</h1>
