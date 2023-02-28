@@ -10,6 +10,9 @@ function App() {
 				
 				<p>This app will help you to explore basics of css, html and js.</p>
 				<p>This app can be very useful especially for kids.</p>
+				<p>another paragraph added</p>
+				<h2> Headline added</h2>
+				<p>jjjjj</p>
 			</div>
 			<div className='count'>
 				<h1>{count}</h1>
