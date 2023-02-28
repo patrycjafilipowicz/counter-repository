@@ -8,6 +8,7 @@ function App() {
 		<div className='app'>
 			<div className='appName'>
 				<h1>Counter app</h1>
+				<p>Brand new app.</p>
 			</div>
 			<div className='count'>
 				<h1>{count}</h1>
